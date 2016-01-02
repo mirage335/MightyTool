@@ -45,6 +45,7 @@ http://www.thingiverse.com/thing:83035
 http://www.thingiverse.com/thing:48856/#files
 
 #Future Work
+* Smooth rod linear bearing mounting hardware.
 * Rough supplies list (BOM).
 * Mounting brackets for common motors.
 * Micro dual-pinch NEMA11/14 Flexystruder with diamond coated filament guide.
