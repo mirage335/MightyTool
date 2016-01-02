@@ -1,0 +1,18 @@
+
+
+
+          SolidWorks Corporation - STEP Processor Error Log
+          ______________________________________________________
+
+                       STEP Post Processor
+                       ___________________
+
+
+STEP File Name: X:\_ref\AlephObjects\select\extruder_body_fangtooth-v0.5.stp
+
+
+WARNING: Surface problem...Trimmed surface constructor could not converge to solution.
+Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
