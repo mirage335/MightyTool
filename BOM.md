@@ -36,6 +36,9 @@ Rough, not precise, Bill of Materials. Rough, because multiple layouts are possi
 * Flexystruder - https://www.lulzbot.com/store/tool-heads/lulzbot-taz-flexystruder-tool-head-v2
 * Extruder - https://www.lulzbot.com/store/tool-heads/lulzbot-taz-single-extruder-tool-head-v2
 
+* Bowden Tubes - http://www.reprapdiscount.com/home/76-bowden-tube-pushfits.html
+* Bowden Adaptors - http://www.filastruder.com/products/groove-mount-bowden-adaptor
+
 #Mill
 * Quantum MT Motor - http://www.hobbyking.com/hobbyking/store/__67016__Quanum_MT_Series_2227_800KV_Brushless_Multirotor_Motor_Built_by_DYS.html
 * 1/4"x8mm Flexible Coupling - http://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/
