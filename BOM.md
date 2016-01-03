@@ -43,6 +43,11 @@ Rough, not precise, Bill of Materials. Rough, because multiple layouts are possi
 * Quantum MT Motor - http://www.hobbyking.com/hobbyking/store/__67016__Quanum_MT_Series_2227_800KV_Brushless_Multirotor_Motor_Built_by_DYS.html
 * 1/4"x8mm Flexible Coupling - http://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/
 
+* 2 * Lock Collar - http://openbuildspartstore.com/lock-collar/
+* 8 * Shims - http://openbuildspartstore.com/8mm-shim/
+* Spring Assortment Pack - http://www.homedepot.com/p/Everbilt-Spring-Assortment-Kit-84-Pack-15642/202045461
+* 2 * ABEC-7 Bearings - http://www.amazon.com/dp/B00NX0I79U/?tag=hacdc-20
+
 -ALT-
 * DWP611 Spindle Mounting Bracket - http://openbuildspartstore.com/router-spindle-mount/
 
