@@ -1,22 +1,22 @@
 Rough, not precise, Bill of Materials. Rough, because multiple layouts are possible and a kit is more useful than a rigorously defined configuration. 
 
 #Supplies
-2 * M5 Tee Nut Pack - http://openbuildspartstore.com/tee-nuts-25-pack/
-10 * M5 Drop In Tee Nuts - http://openbuildspartstore.com/drop-in-tee-nuts/
+* 2 * M5 Tee Nut Pack - http://openbuildspartstore.com/tee-nuts-25-pack/
+* 10 * M5 Drop In Tee Nuts - http://openbuildspartstore.com/drop-in-tee-nuts/
 
-M5 Screws - http://openbuildspartstore.com/low-profile-screws-m5/
+* M5 Screws - http://openbuildspartstore.com/low-profile-screws-m5/
 
-10 * Cube Corner Connector - http://openbuildspartstore.com/cube-corner-connector/
-10 * Cast Corner Bracket - http://openbuildspartstore.com/cast-corner-bracket/
-20 * Angle Corner Connector - http://openbuildspartstore.com/black-angle-corner-connector/
+* 10 * Cube Corner Connector - http://openbuildspartstore.com/cube-corner-connector/
+* 10 * Cast Corner Bracket - http://openbuildspartstore.com/cast-corner-bracket/
+* 20 * Angle Corner Connector - http://openbuildspartstore.com/black-angle-corner-connector/
 
-2 * 90deg Joining Plate - http://openbuildspartstore.com/90-degree-joining-plate/
-2 * T Joining Plate - http://openbuildspartstore.com/t-joining-plate/
+* 2 * 90deg Joining Plate - http://openbuildspartstore.com/90-degree-joining-plate/
+* 2 * T Joining Plate - http://openbuildspartstore.com/t-joining-plate/
 
-40mmX40mmX10mm Fan - http://www.amazon.com/uxcell-40mm-Brushless-Computer-Cooling/dp/B00DUYU30A/ref=sr_1_14?s=industrial&ie=UTF8&qid=1451802911&sr=1-14&keywords=40mm+case+fan
+* 40mmX40mmX10mm Fan - http://www.amazon.com/uxcell-40mm-Brushless-Computer-Cooling/dp/B00DUYU30A/ref=sr_1_14?s=industrial&ie=UTF8&qid=1451802911&sr=1-14&keywords=40mm+case+fan
 
-1 * Aluminum Plate - http://www.metalsdepot.com/products/alum2.phtml?page=sheet&LimAcc=%20&aident=#p395
-1 * Aluminum Flat Bar - http://www.metalsdepot.com/products/alum2.phtml?page=flat&LimAcc=%20&aident=#p72
+* 1 * Aluminum Plate - http://www.metalsdepot.com/products/alum2.phtml?page=sheet&LimAcc=%20&aident=#p395
+* 1 * Aluminum Flat Bar - http://www.metalsdepot.com/products/alum2.phtml?page=flat&LimAcc=%20&aident=#p72
 
 ##Extrusions
 * 1 * 20 series x 80mm x 1000mm V-Slot Profile - http://openbuildspartstore.com/v-slot-linear-rail/
