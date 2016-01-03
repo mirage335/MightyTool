@@ -34,6 +34,8 @@ Recommend BDR-209 laser, Supereyes B005 microscope, and DC42's differential opti
 ##Spindle Motors
 Consider mounting brushless outrunner motors with flexible couplings. Suggest HobbyKing "Quanum MT Series 2227 800KV Brushless Multirotor Motor Built by DYS" - http://www.hobbyking.com/hobbyking/store/__67016__Quanum_MT_Series_2227_800KV_Brushless_Multirotor_Motor_Built_by_DYS.html .
 
+Using the flexible coupling to add a small amount of preload is recommended for minimum runout.
+
 ##Stepper Motors
 Recommend AlephObjects half-height NEMA17 motors (SY42STH33-1504A). Alternatively, similar motors are available from SeeMeCNC - http://seemecnc.com/collections/parts-accessories/products/nema-17-short-can-stepper-motor . However, AlephObjects lower-voltage (lower-impedance) motors may perform better at high speed.
 
