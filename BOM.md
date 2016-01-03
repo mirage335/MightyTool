@@ -25,7 +25,7 @@ Rough, not precise, Bill of Materials. Rough, because multiple layouts are possi
 * 2 * 20 series x 20mm x 1000mm V-Slot Profile - http://openbuildspartstore.com/v-slot-linear-rail/
 
 #Chasis
-* ACME Nut Plate - http://openbuildspartstore.com/nut-plate-for-8mm-metric-acme-lead-screw/
+* 2 * ACME Nut Plate - http://openbuildspartstore.com/nut-plate-for-8mm-metric-acme-lead-screw/
 
 * 6 * Wheel Kits - http://openbuildspartstore.com/xtreme-solid-v-wheel-kit/
 * 6 * M5x25mm Screws - http://openbuildspartstore.com/low-profile-screws-m5/
