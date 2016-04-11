@@ -1,0 +1,9 @@
+Data based on TazMega with MightyTool measurements.
+
+Nozzle spacing - 22.35mm
+
+Attachment angle - 8deg
+Attachment post - 24mm
+
+Attachment Xshift - 30mm
+Attachment Yshift - 5mm
